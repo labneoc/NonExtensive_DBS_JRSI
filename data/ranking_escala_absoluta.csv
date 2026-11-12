@@ -1,0 +1,10 @@
+descritor,coluna,AUC,lo,hi,n
+potência ABSOLUTA 500–3000 Hz,abs_p500_3k,0.92778,0.87778,0.97222,45
+amplitude de fundo (metadado),noise_sigma,0.91111,0.86111,0.95556,45
+escala reconstruída,abs_rms,0.88333,0.82222,0.93889,45
+q residual,q_stat_resid,0.7962,0.72554,0.86413,46
+T (BCS),T_bcs_ms,0.7663,0.68478,0.84239,46
+potência relativa 500–3000 Hz,rel_f500_3k,0.69022,0.6087,0.76087,46
+potência ABSOLUTA beta,abs_beta,0.62778,0.53889,0.71111,45
+q bruto,q_stat_raw,0.54076,0.4538,0.625,46
+fundo / SD total (livre de escala),frac_fundo,0.47283,0.38587,0.55978,46
